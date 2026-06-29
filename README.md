@@ -1,5 +1,3 @@
-# FineSteer: A Unified Framework for Fine-Grained Inference-Time Steering in Large Language Models
-
 This repository contains the source code and instructions to reproduce the results in our paper.
 
 
