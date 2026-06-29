@@ -1,3 +1,4 @@
+## Implementation of FineSteer: A Unified Framework for Fine-Grained Inference-Time Steering in Large Language Models
 This repository contains the source code and instructions to reproduce the results in our paper.
 
 
@@ -14,7 +15,7 @@ Please make sure that your device supports CUDA with 12.1 or higher version.
 
 ## Train and evaluate FineSteer
 
-We will include the details soon.
+We will include the training and evaluation details soon.
 
 
 ## How to cite
